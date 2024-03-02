@@ -19,6 +19,7 @@ https://dust3r.europe.naverlabs.com/
 
 ### 🖼 Output
 
+https://github.com/camenduru/dust3r-jupyter/assets/54370274/2acdf431-d799-4ca2-adb7-929d17ee0481
 
 ### 🏢 Sponsor
 https://replicate.com
